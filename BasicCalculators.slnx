@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BasicCalculators/BasicCalculators.csproj" />
+  <Project Path="CalculatorPrivateAssembly/CalculatorPrivateAssembly.csproj" />
+</Solution>
